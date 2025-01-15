@@ -29,7 +29,7 @@ Dieses Skript wurde entwickelt, um den Omada SDN Controller auf einer **Ubuntu-S
 
 1. Lade das Skript herunter:
    ```bash
-   wget -O install_omada.sh https://example.com/path/to/install_omada.sh
+   wget -O install_omada.sh https://example.com/path/to/install_omada.sh](https://raw.githubusercontent.com/Zenutrix/OmadaInstallScript/refs/heads/main/install_omada.sh
    ```
 
 2. Mache das Skript ausführbar:
